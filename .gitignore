@@ -5,6 +5,7 @@
 .RData
 # User-specific files
 .Ruserdata
+.Rproj
 # Example code in package build process
 *-Ex.R
 # Output files from R CMD build
@@ -27,3 +28,6 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 .DS_Store
+
+# Original Data
+OrigData/
